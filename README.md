@@ -8,5 +8,9 @@ You can read my supervised research [final report](https://github.com/RosalieZhu
 
 ### Result
 ![](https://github.com/RosalieZhu/DRC_modeling/blob/master/fig/DRC.png)
+
+
 ![](https://github.com/RosalieZhu/DRC_modeling/blob/master/fig/tumor_size.png)
+
+
 ![](https://github.com/RosalieZhu/DRC_modeling/blob/master/fig/Tumor_treatment.png)
